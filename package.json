@@ -1,7 +1,7 @@
 {
   "name": "portfolio",
   "version": "0.1.0",
-  "homepage": "https://ferelbue.github.io/PORTFOLIO/",
+  "homepage": "https://ferelbue.github.io/PORTFOLIO",
   "private": true,
   "dependencies": {
     "@react-pdf/renderer": "^2.2.0",
