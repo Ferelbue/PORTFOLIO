@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/PORTFOLIO/static/css/main.0f23ff5f.css",
+    "main.js": "/PORTFOLIO/static/js/main.3344e04a.js",
+    "static/js/787.5c0b2d12.chunk.js": "/PORTFOLIO/static/js/787.5c0b2d12.chunk.js",
+    "static/media/foto_fer.png": "/PORTFOLIO/static/media/foto_fer.070e82322169198d770a.png",
+    "static/media/CV_FERNANDO_ELEGIDO_ENGLISH.pdf": "/PORTFOLIO/static/media/CV_FERNANDO_ELEGIDO_ENGLISH.f826b8910f42d27b0e02.pdf",
+    "static/media/leaf.png": "/PORTFOLIO/static/media/leaf.ff2616f664c8c0ceab91.png",
+    "static/media/chatify.png": "/PORTFOLIO/static/media/chatify.327237a9591e99154f4d.png",
+    "static/media/emotion.png": "/PORTFOLIO/static/media/emotion.eabfc16e7a146ab15778.png",
+    "static/media/suicide.png": "/PORTFOLIO/static/media/suicide.9c86cd7138a398c45fa5.png",
+    "static/media/blog.png": "/PORTFOLIO/static/media/blog.7f10b5a844e5fba94c77.png",
+    "static/media/home-main.svg": "/PORTFOLIO/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/codeEditor.png": "/PORTFOLIO/static/media/codeEditor.72af8abfa6d461129d49.png",
+    "static/media/logo.png": "/PORTFOLIO/static/media/logo.86683bfeb0c03f600127.png",
+    "static/media/home-bg.jpg": "/PORTFOLIO/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/pre.svg": "/PORTFOLIO/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/PORTFOLIO/index.html",
+    "main.0f23ff5f.css.map": "/PORTFOLIO/static/css/main.0f23ff5f.css.map",
+    "main.3344e04a.js.map": "/PORTFOLIO/static/js/main.3344e04a.js.map",
+    "787.5c0b2d12.chunk.js.map": "/PORTFOLIO/static/js/787.5c0b2d12.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f23ff5f.css",
+    "static/js/main.3344e04a.js"
+  ]
+}
